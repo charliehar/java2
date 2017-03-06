@@ -22,7 +22,7 @@ package survey;
 public class Survey extends javax.swing.JFrame {
 
     /**
-     * Creates new form UserSurveyUI
+     * Creates new form Survey
      */
     public Survey() {
         initComponents();
